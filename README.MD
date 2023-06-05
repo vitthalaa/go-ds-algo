@@ -19,5 +19,8 @@
 ## [Recursion](recursion)
 1. [Number To String](recursion/number_to_string)
 
+## [Linked List](linked-list)
+1. [LRU Cache](linked-list/lru-cache)
+
 ## [Other](other)
 1. [Square Root](other/square_root)
